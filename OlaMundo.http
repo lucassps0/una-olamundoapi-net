@@ -1,0 +1,6 @@
+@OlaMundo_HostAddress = http://localhost:5058
+
+GET {{OlaMundo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
